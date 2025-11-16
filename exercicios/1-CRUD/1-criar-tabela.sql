@@ -1,2 +1,5 @@
--- Crie uma nova tabela no banco de dados
-ex de mod
+CREATE TABLE alunos_nota (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome TEXT,
+    nota INTEGER
+);
