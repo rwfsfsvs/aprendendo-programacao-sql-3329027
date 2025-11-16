@@ -1,2 +1,4 @@
-ALTER TABLE employees
-ADD id INTEGER;
+ALTER TABLE alunos_nota
+ADD id INTEGER,
+ADD nome TEXT,
+ADD nota INTEGER;
